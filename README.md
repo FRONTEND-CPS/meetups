@@ -5,7 +5,13 @@ Campinas Front-End Meetup
 
 ## Próximo meetup :calendar:
 
-*Em breve!*
+**#2 Meetup**
+
+* **Data:** 01/08/2015
+* **Local:** CDI Campinas
+* **Endereço:** Av. Nestor Castanheira, 80, Vila Industrial, Campinas
+* **Participantes:** 27 pessoas
+* **Link do Meetup:** [Link](http://www.meetup.com/pt/Campinas-Front-End-Meetup/events/223794842/)
 
 ---------------------------------------
 

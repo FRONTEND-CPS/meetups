@@ -9,7 +9,7 @@ Campinas Front-End Meetup
 * **Local:** CDI Campinas
 * **Endereço:** Av. Nestor Castanheira, 80, Vila Industrial, Campinas
 * **Patrocinador:** Princi Web e CDI Campinas
-* **Participantes:** 15 pessoas
+* **Participantes:** 27 pessoas
 * **Link do Meetup:** [Link](http://www.meetup.com/pt/Campinas-Front-End-Meetup/events/223794842/)
 * **Fotos:** [Link :camera:]()
 
@@ -17,7 +17,7 @@ Campinas Front-End Meetup
 
 | Talk             | Quem           | Link
 | --------------- | -------------     | ----------------------------------------------------------------- |
-|  |  |  |
+|Arquitetura de Aplicações em um Ambiente Offline | [Eduardo Matos](https://twitter.com/eduardojmatos) | https://speakerdeck.com/eduardojmatos/arquitetura-de-aplicacoes-em-um-ambiente-offline |
 
 <!-- Link de assuntos falados durante o encontro -->
 ### Links
