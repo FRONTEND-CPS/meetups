@@ -11,7 +11,7 @@ Campinas Front-End Meetup
 * **Endereço:** Av. Júlio Diniz, 435 | Jardim Ns. Auxiliadora
 * **Patrocinador:** Princi Web
 * **Participantes:** 14 pessoas
-* **Link do Meetup:** [Link](http://www.meetup.com/pt/Campinas-Front-End-Meetup/)
+* **Link do Meetup:** [Link](http://www.meetup.com/pt/Campinas-Front-End-Meetup/events/222687714/)
 * **Fotos:** [Link](http://www.meetup.com/pt/Campinas-Front-End-Meetup/photos/)
 
 ### Talks
