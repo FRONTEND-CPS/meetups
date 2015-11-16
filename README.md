@@ -51,3 +51,4 @@ Quem já nos ajudou :metal:
 
 * [Princi Web](http://www.princiweb.com.br/)
 * [CDI Campinas](http://www.cdicampinas.org.br/)
+* [Navegar/Digitale](http://www.digitale.com.br/)
