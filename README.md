@@ -35,10 +35,6 @@ Se cadastre no site do [Meetup](http://www.meetup.com/) e se inscreva no [Campin
 
 Tem vontade de apresentar uma talk sobre algum assunto de CSS? Ou tem algum bug que não consegue resolver e quer pedir uma força pra galera? Ou simplesmente viu algum link legal e quer divulgar pro pessoal discutir? Maravilha. [Envie algumas informações pra gente através desse link](https://docs.google.com/forms/d/1OGG75DrwK7hw3WJ4QGT5ruvnwcgI2AGe44pp5PrkNPc/viewform) e assim que tivermos o próximo _meetup_ confirmado, iremos entrar em contato pra verificar sua disponibilidade na data do evento.
 
-## Dúvidas?
-
-Tem alguma dúvida sobre o meetup? Confirmações, listas, faltas. [Saiba mais aqui](conduta.md).
-
 ## Agradecimentos
 
 ### Logo
@@ -50,5 +46,5 @@ O logo foi desenvolvido pelo [Lucas Lorençon]() e gostaríamos de agradecer ime
 Quem já nos ajudou :metal:
 
 * [Princi Web](http://www.princiweb.com.br/)
-* [CDI Campinas](http://www.cdicampinas.org.br/)
+* [Minha Campinas](http://minhacampinas.org.br/)
 * [Navegar/Digitale](http://www.digitale.com.br/)
