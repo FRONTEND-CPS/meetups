@@ -1,4 +1,4 @@
-![Campinas Front-end](logo-frontend-cps.png "Campinas Front-end")
+![Campinas Front-end](logo-frontend-cps.svg "Campinas Front-end")
 ======
 
 * [Apresentação do Meetup](#)
